@@ -1,0 +1,21 @@
+[12:07:11] This site uses index.html as its index page
+[12:07:11] This site uses index.php as its index page
+[12:07:11] Server: cloudflare 
+ 
+ [12:07:11] HTST: max-age=0 
+ 
+ [12:07:11] Content-Type: text/html 
+
+ 
+
+        User-agent: *
+
+        Disallow: /openx/
+        Disallow: /404.html
+        Disallow: /browser.html
+        Disallow: /popup/
+
+        Sitemap: https://spele.nl/sitemap.xml
+    Data Length: 187 bytes
+
+[12:07:11][200 OK] https://spele.nl/index  
